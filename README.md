@@ -21,18 +21,21 @@ The design of the DCO centers on the use of stacked inverters composed of PMOS a
 
 **Results**
 **Transient Analysis:** 
-[DCO_transient.pdf](https://github.com/deepak7309/DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor/files/15483156/DCO_transient.pdf)
+
+![Screenshot 2024-05-29 163627](https://github.com/deepak7309/DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor/assets/132645894/cf7adfe9-33d9-47dc-9392-20d91fad171f)
 
 
 **Power Dissiption:**
 
-[DCO_power.pdf](https://github.com/deepak7309/DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor/files/15483161/DCO_power.pdf)
+
+![Screenshot 2024-05-29 163738](https://github.com/deepak7309/DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor/assets/132645894/fbccd15d-da8a-4d8e-a0fe-b21af1437dc7)
 
 
 
 **Phase Noise:**
 
-[DCO_Phasenoise.pdf](https://github.com/deepak7309/DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor/files/15483166/DCO_Phasenoise.pdf)
+![Screenshot 2024-05-29 163814](https://github.com/deepak7309/DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor/assets/132645894/850fb776-04ab-4a67-bd07-2ae5e5a0651e)
+
 
 **Frequency Vs Control Bits:**
 
