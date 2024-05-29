@@ -20,6 +20,7 @@ The design of the DCO centers on the use of stacked inverters composed of PMOS a
 **Capacitive Loads:** PMOS varactors are integrated into the design to enable fine-tuning of the frequency by adjusting the load capacitance. This results in a more stable and efficient oscillator.
 
 **Results**
+
 **Transient Analysis:** 
 
 ![Screenshot 2024-05-29 163627](https://github.com/deepak7309/DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor/assets/132645894/cf7adfe9-33d9-47dc-9392-20d91fad171f)
