@@ -1,4 +1,4 @@
-# DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor
+# DCO-Design-using-Forced-Stack-Transistor-based-inverter-and-PMOS-varactor in Cadence Virtuoso scl 90nm technology
 Developed a high-performance DCO using stacked inverters and PMOS varactors, enhancing power efficiency and frequency stability for modern communication systems.
 
 **Abstract**
